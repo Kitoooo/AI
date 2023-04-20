@@ -1,5 +1,5 @@
 # AI
-This repository contains implementations of AI algorythms I learned in University
+This repository contains implementations of AI algorithms I learned in University
 # Python implementations
 * Perceptron 
 * Naive Bayes Classification
