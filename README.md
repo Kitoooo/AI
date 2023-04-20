@@ -2,7 +2,6 @@
 This repository contains implementations of AI algorythms I learned in University
 # Python implementations
 * Perceptron 
-* Multi Perceptron
 * Naive Bayes Classification
 # C++ implementations based on [SIplusplus library](https://github.com/Szachista/SIplusplus)
 * Sudoku solver - Best-First Search 
